@@ -1,2 +1,4 @@
-15:31	Master 		Create File 
+15:31	Master		Create File 
+15:26	Branch-2	Add 1 Line 
+15:52	Branch-2	Add 1 more line 
 
